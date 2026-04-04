@@ -1,0 +1,25 @@
+Q1. Ethical issues between IT professionals and suppliers
+
+There can be conflict of interest. An IT professional may accept gifts or favors from a supplier. This can influence decisions. Bribery and corruption may also occur to secure contracts. Sometimes vendor selection is not transparent. Confidential information may be leaked to unfairly help one supplier. In some cases, quality is compromised to reduce cost.
+
+To support ethical practices, organizations should follow a clear code of ethics. Procurement processes must be transparent. Regular ethics training should be arranged. Internal audits should be conducted. There should be a safe whistle-blowing system.
+
+Q2. Ethicality of producing violent games
+
+According to the Software Engineering Code of Ethics, developers must act in the public interest. They must avoid causing harm. If violent games negatively affect children, this raises ethical concerns. However, freedom of expression is also important.
+
+Developers should ensure proper age ratings. They should provide parental control systems. Clear warnings should be given about violent content. If reasonable steps are taken to reduce harm, producing such games can be ethically acceptable.
+
+Q3. Terms in computer ethics
+
+Globalization means worldwide connection through information technology. Data and services move across borders. This creates legal and cultural challenges.
+
+Digital divide means the gap between people who have access to technology and those who do not. It creates inequality in education and job opportunities.
+
+Net neutrality means all internet traffic should be treated equally. Internet providers should not block or slow down specific websites. It ensures fairness and freedom online.
+
+Q4. Dilemma in whistle-blowing
+
+Whistle-blowing means reporting wrongdoing inside an organization. A professional has moral responsibility to protect the public. But reporting may cause job loss or legal problems. It may also damage relationships.
+
+The dilemma is between loyalty to the employer and duty to society. Whistle-blowing is justified when serious harm is involved and internal reporting has failed.
